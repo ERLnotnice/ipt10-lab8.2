@@ -1,0 +1,50 @@
+{
+    "personal_details": {
+  
+      "pictures": {
+        "photo": "https://www.auf.edu.ph/home/images/articles/bya.jpg"
+      },
+  
+      "identities": {
+        "title": "Dr.",
+        "given_name": "Barbara",
+        "middle_initial": "Yap",
+        "family_name": "Angeles"
+      },
+  
+      "life_events": {
+        "birth_story": "Barbara was born on December 4, 1907. Her arrival was considered a significant event, a perfect reason for a Christmas season celebration. On Christmas Day, the family invited friends and relatives to witness the charming way the baby girl would open her eyes and squint at the guests, who were captivated by the innocence of her smile.",
+        "youth": "The years flew by, and the baby grew into a delightful schoolgirl, earning recognition for her mathematical talent and honors for her linguistic abilities. Shunning public attention, Barbara was content with her quiet success in academic endeavors. After high school graduation, she informed her parents of her intent to pursue a degree in education."
+      },
+  
+      "academics": [
+        "Centro Escolar de Senoritas",
+        "Education",
+        1930,
+        "From the beginning, there was a vision. Upon enrolling in the College of Education at Centro Escolar de Senoritas, Barbara Yap Angeles was already driven by the goal to create, organize, and fulfill a mission: to provide education to those who have less in life but possess the potential for growth and leadership."
+      ],
+  
+      "institution_vision": {
+        "goal": "With support from her family and friends, Barbara envisioned an educational institution that would play a major role in improving the academic prospects of those who were described as having 'less in life' but deserving of more in education. Barbara's heart was dedicated to educating the youth.",
+        "milestone": "Immediately after graduating from Centro Escolar de Senoritas in 1930, she set about making her dream a reality. Her biggest challenge, however, was finding a school to build her vision upon. In support of Barbara's dream, her brother Ildefonso gifted her the Angeles Academy, the first private school in Pampanga, which officially opened on May 10, 1931."
+      },
+  
+      "campus_details": {
+        "address": "Location of the former Lourdes Elementary School, now occupied by Dr. Clemente H. Dayrit Elementary School, situated just behind the current Angeles University Foundation site.",
+        "land_donation_terms": "The land was donated by the Dayrit family under the condition that it reverts to the original owner if the school ceases operation.",
+        "building_structure": "The school building was a humble one-story, semi-concrete structure with four classrooms."
+      },
+  
+      "team_and_management": {
+        "early_team": "Ildefonso and Barbara had great faith in humanity, expecting loyalty from the administrative and teaching staff. The first person to gain their trust was a young man Ildefonso met at Avenida Rizal, Manila, who was searching for a job. Out of kindness, Ildefonso offered him the position of assistant principal. Barbara, in turn, enlisted the help of a former classmate from Centro Escolar de Senoritas to join the administrative team. Initially, everything ran smoothly, with teachers giving their best effort.",
+        "downfall_and_closure": "While Barbara was an excellent school administrator, she lacked the cunning to monitor the loyalty of her 'trusted' team. She fully trusted them, and any suspicion of betrayal was against her nature. Unfortunately, the disloyal members of her staff undermined her, leading to the closure of the school in 1933. The Dayrit family subsequently donated the site for a public elementary school. It was heartbreaking for Barbara to lose her school due to the betrayal, and she would tear up whenever the story was recounted."
+      },
+  
+      "rebirth": {
+        "new_institution": "Barbara learned a valuable lesson and, with renewed energy, she re-established the Angeles Institute of Technology on May 25, 1962, with the support of her family. As its founder, she proved that women could be as capable as men in the field of education. She no longer feared competition, as her staff exemplified what educational management should be.",
+        "market_fire": "Ironically, on the very day the Angeles Institute of Technology opened, a major fire devastated the Angeles City public market, causing millions of pesos in damage. Thousands of victims were left homeless and jobless. Agustin and Barbara Angeles, moved by the suffering, offered free tuition and scholarships to assist those in need. This act of philanthropy endeared the couple to the community, and their name remains synonymous with benevolence to this day.",
+        "lasting_impact": "Barbara was a wise woman. She remained undeterred by the harsh realities of human ingratitude. In fact, it strengthened her resolve to continue her mission of providing education to deserving students."
+      }
+    }
+  }
+  
